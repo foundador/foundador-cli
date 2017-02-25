@@ -1,6 +1,6 @@
 {
   "name": "foundador-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Found a startup instantly",
   "main": "foundador-cli.js",
   "bin": "foundador-cli.js",
