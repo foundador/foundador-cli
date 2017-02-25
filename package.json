@@ -1,0 +1,29 @@
+{
+  "name": "foundador-cli",
+  "version": "0.0.1",
+  "description": "Found a startup instantly",
+  "main": "foundador-cli.js",
+  "bin": "foundador-cli.js",
+  "dependencies": {
+    "archiver": "^1.3.0",
+    "aws-sdk": "^2.20.0",
+    "commander": "^2.9.0",
+    "fs-extra": "^2.0.0",
+    "prompt": "^1.0.0",
+    "react-native-cli": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foundador/foundador-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foundador/foundador-cli/issues"
+  },
+  "homepage": "https://github.com/foundador/foundador-cli#readme"
+}
